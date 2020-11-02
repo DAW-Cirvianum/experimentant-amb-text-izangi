@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Montserrat:wght@200&display=swap%27');
+
+body div {
+    margin-top: 10px;
+    text-align: center;
+    height: 100px;
+    width: 400px;
+    border: solid 2px black;
+}
+
+#estil1{
+    font-family:Georgia;
+    font-size: 30px;
+}
+
+#estil2{
+    font-family: Palatino Linotype;
+    font-size: 1cm;
+    font-style: oblique;
+}
+
+#estil3{
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 2em;
+}
+
+#estil4{
+    font-family:Arial;
+    text-shadow: 5px 5px darkblue ;
+    font-size: 2rem;
+}
+
+#estil5{
+    font-family:Tahoma;
+    text-decoration: double;
+    font-size: 200%;
+}
+
+#estil6{
+    font-family:'Open Sans';
+    text-overflow: clip;
+    font-size: 3vh;
+}
+
+#estil7{
+    font-family: Dancing Script;
+    text-align: center;
+    font-size: 2vw;
+
+}
+
+#estil8{
+    font-family: Montserrat ;
+    line-height: 20px;
+    font-size: 1vmax;
+}
